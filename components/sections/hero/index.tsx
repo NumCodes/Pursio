@@ -27,7 +27,7 @@ const Hero = () => {
           <h1 className="h1 mb-6">
             Explore the Possibilities of&nbsp;AI&nbsp;Chatting with{" "}
             <span className="relative inline-block">
-              StarForge
+              Pursio
               <Image
                 alt=""
                 className="absolute top-full left-0 w-full xl:-mt-2"
@@ -38,8 +38,8 @@ const Hero = () => {
             </span>
           </h1>
           <p className={cn("body-1 mx-auto mb-6 max-w-3xl text-n-2 lg:mb-8")}>
-            Unleash the power of AI within StarForge. Upgrade your productivity
-            with StarForge, the open AI chat app.
+            Unleash the power of AI within Pursio. Upgrade your productivity
+            with Pursio, the open AI chat app.
           </p>
           <Button href="#pricing" white>
             Get Started
