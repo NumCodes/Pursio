@@ -33,16 +33,16 @@ const Footer = () => (
           Built by{" "}
           <a
             className="font-semibold text-n-1 transition-colors hover:text-color-1"
-            href="https://aayushbharti.in"
+            href="https://numcodes"
             rel="noopener noreferrer"
             target="_blank"
           >
-            Aayush Bharti
+            Num Codes and King Joker
           </a>
-          . The source code is available on{" "}
+          . For developers {" "}
           <a
             className="font-semibold text-n-1 transition-colors hover:text-color-1"
-            href="https://github.com/aayushbharti/ai-saas-landing-starter"
+            href="#"
             rel="noopener noreferrer"
             target="_blank"
           >

@@ -195,7 +195,7 @@ function NavbarLogo({ isCompact }: { isCompact: boolean }) {
     >
       <Link className="relative flex h-full items-center gap-2" href="#hero">
         <Image
-          alt="StarForge"
+          alt="Pursio"
           className="shrink-0"
           height={40}
           src={starForgeSymbol}
@@ -220,7 +220,7 @@ function NavbarLogo({ isCompact }: { isCompact: boolean }) {
           transition={navSpring}
         >
           <p className="font-extrabold font-grotesk text-2xl tracking-wide">
-            StarForge
+            Pursio
           </p>
         </motion.div>
       </Link>
