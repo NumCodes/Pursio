@@ -21,8 +21,8 @@ const Services = () => {
     <Section id="how-to-use">
       <div className="container">
         <Heading
-          text="StarForge unlocks the potential of AI-powered applications"
-          title="Generative AI made for creators."
+          text="Pursio unlocks the potential of AI-powered applications"
+          title="Generative AI made for developers."
         />
 
         <div className="relative">
@@ -41,7 +41,7 @@ const Services = () => {
             <div className="relative z-1 ml-auto max-w-68">
               <h3 className="h4 mb-4">Smartest AI</h3>
               <p className="body-2 mb-12 text-n-3">
-                StarForge unlocks the potential of AI-powered applications
+                Pursio unlocks the potential of AI-powered applications
               </p>
               <ul className="body-2">
                 {starForgeServices.map((service, index) => (
@@ -70,10 +70,10 @@ const Services = () => {
                 />
               </div>
               <div className="absolute inset-0 flex flex-col justify-end bg-linear-to-b from-n-8/0 to-n-8/90 p-8 lg:p-15">
-                <h3 className="h4 mb-4">Photo editing</h3>
+                <h3 className="h4 mb-4">Job Scouting</h3>
                 <p className="body-2 mb-12 text-n-3">
-                  Automatically enhance your photos using our AI app&apos;s
-                  photo editing feature. Try it now!
+                  Automatically get job replies using our AI app&apos;s
+                  Chat reply feature. Try it now!
                 </p>
               </div>
 
@@ -82,9 +82,9 @@ const Services = () => {
 
             <div className="overflow-hidden rounded-3xl bg-n-7 p-4 lg:min-h-184">
               <div className="px-4 py-12 xl:px-8">
-                <h3 className="h4 mb-4">Video generation</h3>
+                <h3 className="h4 mb-4">Job Scouting</h3>
                 <p className="body-2 mb-8 text-n-3">
-                  The world’s most powerful AI photo and video art generation
+                  The world’s most powerful AI pdf creator and analyser 
                   engine. What will you create?
                 </p>
 
