@@ -33,7 +33,7 @@ const Footer = () => (
           Built by{" "}
           <a
             className="font-semibold text-n-1 transition-colors hover:text-color-1"
-            href="https://numcodes"
+            href="https://numcodes.vercel.app"
             rel="noopener noreferrer"
             target="_blank"
           >
