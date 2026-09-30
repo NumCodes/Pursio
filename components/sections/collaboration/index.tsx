@@ -40,7 +40,7 @@ const Collaboration = () => (
 
               <div className="relative flex h-full items-center justify-center rounded-full bg-n-8">
                 <Image
-                  alt="StarForge"
+                  alt="Pursio"
                   draggable={false}
                   height={48}
                   src={images.starForgeSymbol}
