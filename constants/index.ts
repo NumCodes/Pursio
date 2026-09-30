@@ -122,8 +122,8 @@ export const notificationImages = [notification4, notification3, notification2];
 export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
 export const starForgeServices = [
-  "Photo generating",
-  "Photo enhance",
+  "Pdf generating",
+  "Pdf enhance",
   "Seamless Integration",
 ];
 
@@ -140,8 +140,8 @@ export const roadmap = [
     id: "0",
     title: "Voice recognition",
     text: "Enable the chatbot to understand and respond to voice commands, making it easier for users to interact with the app hands-free.",
-    date: "May 2023",
-    status: "done",
+    date: "May 2026",
+    status: "progress",
     imageUrl: roadmap1,
     colorful: true,
   },
