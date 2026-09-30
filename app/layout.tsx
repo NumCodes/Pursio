@@ -23,8 +23,8 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "AI SaaS landing page template",
-  description: "AI SaaS landing page template by Aayush Bharti",
+  title: "Pursio || Home",
+  description: "Pursio finds opportunities across your inbox, explains why they fit, and helps you move forward with confidence",
 };
 
 export default function RootLayout({
