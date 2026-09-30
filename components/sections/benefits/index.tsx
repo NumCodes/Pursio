@@ -11,7 +11,7 @@ const Benefits = () => (
     <div className="container relative z-2">
       <Heading
         className="md:max-w-md lg:max-w-2xl"
-        title="Chat Smarter, Not Harder with StarForge"
+        title="Chat Smarter, Not Harder with Pursio"
       />
 
       <div className="mb-10 flex flex-wrap gap-8">
