@@ -29,7 +29,7 @@ const Pricing = () => (
         </div>
       </div>
 
-      <Heading tag="Get started with StarForge" title="Pay once, use forever" />
+      <Heading tag="Get started with Pursio" title="Pay once, use forever" />
 
       <div className="relative">
         <PricingList />
