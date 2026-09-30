@@ -20,14 +20,14 @@ export const Gradient = () => (
 
 export const PhotoChatMessage = () => (
   <div className="absolute top-8 right-8 max-w-70 rounded-t-xl rounded-bl-xl bg-black px-8 py-6 font-code text-base lg:top-16 lg:right-35 lg:max-w-70">
-    Hey StarForge, enhance this photo
+    Hey Pursio, find me a freelance job
     <ChatBubbleWing className="absolute bottom-0 left-full" />
   </div>
 );
 
 export const VideoChatMessage = () => (
   <div className="absolute top-8 left-12.5 w-full max-w-56 rounded-t-xl rounded-br-xl bg-n-6 pt-2.5 pr-2.5 pb-7 pl-5 font-code text-base md:max-w-70">
-    Video generated!
+    Pdf generated!
     <div className="absolute -bottom-4.5 left-5 flex size-9 items-center justify-center rounded-xl bg-color-1">
       <Image
         alt="StarForge"
